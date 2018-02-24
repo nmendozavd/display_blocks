@@ -1,0 +1,29 @@
+#container{
+  width: 900px;
+
+}
+#header {
+  display: inline-block;
+  align-content: center;
+  margin-left: 250px;
+}
+h1{
+  font-weight: bold;
+  font-size: 22px;
+  display: inline-block;
+}
+
+#header img{
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+
+}
+
+#images img{
+  width: 140px;
+  display: inline-block;
+  border: solid;
+  border-width: medium;
+  border-color: black;
+}
